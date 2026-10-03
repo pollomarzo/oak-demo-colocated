@@ -8,4 +8,4 @@ abstract: |
 
 ## Introduction
 
-Your paper content goes here. Cite your bibliography like this [@example2026].
+This paper tests the co-located journal shape end to end. Cite your bibliography like this [@example2026].
